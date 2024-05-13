@@ -1,0 +1,24 @@
+NO REUSE LICENSE
+
+This software is copyrighted by [Your Name/Company Name] (the "Licensor").
+
+NO PERMISSION GRANTED
+
+You are expressly prohibited from:
+
+Reproducing the software in any form.
+Modifying, translating, or creating derivative works of the software.
+Distributing, sublicensing, or leasing the software.
+Reverse engineering, decompiling, or disassembling the software.
+Grant of License
+
+Licensor grants you a non-exclusive, non-transferable license to:
+
+Use the software solely for your own internal purposes and within your organization.
+Disclaimer of Warranty
+
+The software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+Limitation of Liability
+
+In no event shall the Licensor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise), arising in any way out of the use of the software, even if advised of the possibility of such damage.
