@@ -20,6 +20,8 @@ This document tracks the resources I'm using to learn and build this project.
 * [SPAS ARE JUST HARDER, AND ALWAYS WILL BE](http://wgross.net/essays/spas-are-harder)
 * [FullstackPython's JavaScript Collection](https://www.fullstackpython.com/javascript.html)
 * [Shadow DOM](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
+* [Lit Library Docs](https://lit.dev/docs/)
+* [Making a switch to Next.js](https://nextjs.org/docs/)
 
 ## Architecture
 * [Gemini Chat: Undersanding App and Web Servers Communiaction](https://docs.google.com/document/d/18gDSxJSfQ_g3AXads4jWTnZYrQ-dcEQgIoYJGCtYXDk/edit?usp=sharing)
