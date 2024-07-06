@@ -24,8 +24,14 @@ This document tracks the resources I'm using to learn and build this project.
 * [Making a switch to Next.js](https://nextjs.org/docs/)
 * [HTMX for the win](https://htmx.org/)
 
-## Architecture
+## System Design
 * [Gemini Chat: Undersanding App and Web Servers Communiaction](https://docs.google.com/document/d/18gDSxJSfQ_g3AXads4jWTnZYrQ-dcEQgIoYJGCtYXDk/edit?usp=sharing)
 * [The Stack That Helped Medium Drive 2.6 Millennia of Reading Time](https://medium.engineering/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492)
 * [Rebuilding a Web Platform for 30M Users](https://medium.com/poki/rebuilding-a-web-platform-for-30m-users-90467b0b8293)
+
+## Architecture
+* [https://www.youtube.com/watch?v=2dKZ-dWaCiU&t=3s](The Clean Architecture)
+* [https://medium.com/@iamprovidence/backend-side-architecture-evolution-n-layered-ddd-hexagon-onion-clean-architecture-643d72444ce4](Evolution of Architectures)
+* [https://martinfowler.com/bliki/DomainDrivenDesign.html](Domain Driven Design)
+* [https://www.reddit.com/r/golang/comments/18dmkxg/is_clean_architecture_basically_layered/](Discussion on Architecture)
 
