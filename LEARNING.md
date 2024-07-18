@@ -30,8 +30,14 @@ This document tracks the resources I'm using to learn and build this project.
 * [Rebuilding a Web Platform for 30M Users](https://medium.com/poki/rebuilding-a-web-platform-for-30m-users-90467b0b8293)
 
 ## Architecture
-* [https://www.youtube.com/watch?v=2dKZ-dWaCiU&t=3s](The Clean Architecture)
-* [https://medium.com/@iamprovidence/backend-side-architecture-evolution-n-layered-ddd-hexagon-onion-clean-architecture-643d72444ce4](Evolution of Architectures)
-* [https://martinfowler.com/bliki/DomainDrivenDesign.html](Domain Driven Design)
-* [https://www.reddit.com/r/golang/comments/18dmkxg/is_clean_architecture_basically_layered/](Discussion on Architecture)
+* [The Clean Architecture](https://www.youtube.com/watch?v=2dKZ-dWaCiU&t=3s)
+* [Evolution of Architectures](https://medium.com/@iamprovidence/backend-side-architecture-evolution-n-layered-ddd-hexagon-onion-clean-architecture-643d72444ce4)
+* [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html)
+* [Discussion on Architecture](https://www.reddit.com/r/golang/comments/18dmkxg/is_clean_architecture_basically_layered/)
+
+## REST
+- [What is REST?](https://www.codecademy.com/article/what-is-rest)
+- [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+- [HTTP Concurrency in Go](https://eli.thegreenplace.net/2019/on-concurrency-in-go-http-servers#footnote-reference-1)
+- [Handling JSON requests in a robust manner](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 
