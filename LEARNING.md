@@ -36,8 +36,10 @@ This document tracks the resources I'm using to learn and build this project.
 * [Discussion on Architecture](https://www.reddit.com/r/golang/comments/18dmkxg/is_clean_architecture_basically_layered/)
 
 ## REST
+- [The Fielding Dissertation](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)
 - [What is REST?](https://www.codecademy.com/article/what-is-rest)
 - [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 - [HTTP Concurrency in Go](https://eli.thegreenplace.net/2019/on-concurrency-in-go-http-servers#footnote-reference-1)
 - [Handling JSON requests in a robust manner](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
+- [REST Best Practices (Opinion)](https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 
