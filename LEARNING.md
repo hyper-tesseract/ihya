@@ -34,6 +34,7 @@ This document tracks the resources I'm using to learn and build this project.
 * [Evolution of Architectures](https://medium.com/@iamprovidence/backend-side-architecture-evolution-n-layered-ddd-hexagon-onion-clean-architecture-643d72444ce4)
 * [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html)
 * [Discussion on Architecture](https://www.reddit.com/r/golang/comments/18dmkxg/is_clean_architecture_basically_layered/)
+* [Trip Advisor Architecture](https://highscalability.com/tripadvisor-architecture-40m-visitors-200m-dynamic-page-view/)
 
 ## REST
 - [The Fielding Dissertation](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)
@@ -43,3 +44,7 @@ This document tracks the resources I'm using to learn and build this project.
 - [Handling JSON requests in a robust manner](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
 - [REST Best Practices (Opinion)](https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 
+## Database Design
+- [System Design: Databases](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#database)
+- [Database Design Primer](https://joshghent.com/database-design/)
+- [Database Design Basics](https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5)
